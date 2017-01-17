@@ -1,0 +1,3 @@
+PassengerEnabled on
+PassengerAppRoot /home/cirrused/public_html/notifier
+PassengerPython /home/cirrused/public_html/notifier/venv/bin/python
